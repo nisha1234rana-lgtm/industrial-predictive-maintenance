@@ -1,0 +1,3 @@
+scenario,downtime_hours,downtime_cost,repair_cost,inspection_cost,total_cost
+Reactive maintenance,12,30000,12000,0,42000
+Predictive maintenance,4,10000,5000,7000,22000

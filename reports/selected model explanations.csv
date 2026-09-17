@@ -1,0 +1,3 @@
+model,first_alert_timestamp,hours_before_failure,failure_probability,threshold,top_driver_1,top_driver_2,top_driver_3
+24-hour early warning model,2022-07-10 11:20:00,22.838596666666668,0.9172720264556748,0.49900616294901473,motor_current_avg_6h,motor_current_std_6h,motor_current_avg_1h
+Near-failure Random Forest detector,2022-07-11 09:28:00,0.7052633333333332,0.56,0.08900696371083161,motor_current_avg_6h,compressor_activity_6h,motor_current_std_6h
